@@ -1,0 +1,33 @@
+roll_no,name,branch,program,admission_year,current_year,semester,regulation,is_dse,attendance_percentage,gpa,ise_marks,mse_marks,ese_marks,tw_marks,pr_or_marks,assignment_completion_percentage,earned_credits,expected_credits,failed_subjects,failed_heads,ese_failed_heads,previous_backlogs,backlog_credits,grace_marks,activity_points,ncmc_cleared,scenario
+CS2401001,Arun Krishnan,Computer Science,B.Tech CS,2022,3,5,R19,0,93,8.2,17,18,52,23,24,92,78,80,0,0,0,0,0,0,85,1,healthy_exemplary
+CS2401002,Bhavana Pillai,Computer Science,B.Tech CS,2022,3,5,R19,0,62,5.5,12,10,33,17,16,68,65,80,2,3,2,0,6,0,50,1,attendance_risk
+CS2401003,Chetan Reddy,Computer Science,B.Tech CS,2022,3,5,R19,0,78,5.0,10,9,31,15,14,62,58,80,3,5,3,2,12,0,40,1,backlog_heavy
+CS2401004,Divya Srinivas,Computer Science,B.Tech CS,2022,3,5,R19,0,85,7.2,16,15,47,21,20,78,55,80,1,1,0,0,3,0,65,1,credit_deficit
+CS2401005,Eshan Mehta,Computer Science,B.Tech CS,2022,3,5,R19,0,88,6.8,15,16,44,21,22,42,76,80,0,0,0,0,0,0,70,1,low_assignment
+CS2401006,Farida Hassan,Computer Science,B.Tech CS,2021,4,7,R19,0,90,7.5,16,15,45,22,21,85,112,120,0,0,0,0,0,0,92,1,se_gate_eligible
+CS2401007,Ganesh Rao,Computer Science,B.Tech CS,2021,4,7,R19,0,55,4.0,8,7,25,12,11,38,80,120,4,8,5,3,18,0,35,0,high_risk_critical
+CS2401008,Harini Anand,Computer Science,B.Tech CS,2021,4,7,R19,0,76,6.2,13,12,38,18,17,72,100,120,1,2,1,0,5,2,60,1,borderline_attendance
+CS2401009,Ishaan Bose,Computer Science,B.Tech CS,2020,5,8,R19,0,82,6.5,14,13,40,19,20,75,138,150,1,1,0,0,3,0,95,1,final_year_ok
+CS2401010,Jaya Krishnaswamy,Computer Science,B.Tech CS,2020,5,8,R19,0,48,3.5,6,5,22,10,9,30,100,150,5,9,6,4,25,0,30,1,aicte_clock_warning
+ME2401011,Karthik Suresh,Mechanical Engineering,B.Tech ME,2024,1,2,R24,0,84,7.0,15,14,42,20,19,78,22,24,1,1,0,0,2,0,20,1,healthy_mech
+ME2401012,Lalitha Menon,Mechanical Engineering,B.Tech ME,2024,1,2,R24,0,92,8.0,17,16,49,23,22,90,24,24,0,0,0,0,0,0,25,1,excellent_mech
+ME2401013,Madhu Babu,Mechanical Engineering,B.Tech ME,2024,1,2,R24,0,68,5.8,11,10,35,16,15,55,18,24,2,3,1,0,6,0,15,1,at_risk_mech
+ME2401014,Naveen Thomas,Mechanical Engineering,B.Tech ME,2022,2,4,R19,0,58,4.2,9,8,26,13,12,40,30,48,3,6,4,1,12,0,35,1,progression_concern_mech
+ME2401015,Oviya Patel,Mechanical Engineering,B.Tech ME,2022,2,4,R19,0,87,7.5,16,15,46,22,21,82,44,48,0,0,0,0,0,0,50,1,good_mech
+ME2401016,Pranav Singh,Mechanical Engineering,B.Tech ME,2022,2,4,R19,0,74,5.3,11,10,32,16,15,60,36,48,2,4,2,0,8,0,40,1,warning_zone_mech
+ME2401017,Queenie Joseph,Mechanical Engineering,B.Tech ME,2021,3,6,R19,0,80,6.0,13,12,36,18,17,68,60,72,1,2,1,0,4,0,55,1,moderate_risk_mech
+ME2401018,Rahul Verma,Mechanical Engineering,B.Tech ME,2021,3,6,R19,0,91,7.8,16,17,48,22,23,88,70,72,0,0,0,0,0,0,70,1,healthy_senior_mech
+ME2401019,Sneha Nambiar,Mechanical Engineering,B.Tech ME,2021,3,6,R19,0,45,3.2,5,4,20,8,7,25,42,72,5,10,7,3,20,0,25,0,critical_detained_mech
+ME2401020,Tejas Gowda,Mechanical Engineering,B.Tech ME,2021,3,6,R19,0,72,5.5,12,11,33,17,16,58,56,72,2,3,2,1,8,0,45,1,below_condonation_mech
+EC2401021,Uma Shankar,Electronics & Telecom,B.Tech ECE,2024,1,1,R24,0,95,8.5,18,17,53,24,23,95,24,24,0,0,0,0,0,0,10,1,excellent_ece
+EC2401022,Vinay Hegde,Electronics & Telecom,B.Tech ECE,2024,1,1,R24,0,78,6.0,13,12,36,18,17,65,20,24,1,2,1,0,4,0,12,1,at_risk_ece
+EC2401023,Wasim Akram,Electronics & Telecom,B.Tech ECE,2023,2,3,R24,0,83,7.2,15,14,44,20,21,80,42,48,0,0,0,0,0,0,30,1,healthy_ece_yr2
+EC2401024,Xavier Dias,Electronics & Telecom,B.Tech ECE,2023,2,3,R24,0,60,4.8,9,8,30,14,13,48,30,48,3,5,3,0,10,0,20,1,struggling_ece
+EC2401025,Yamini Chakravarti,Electronics & Telecom,B.Tech ECE,2023,2,3,R24,0,88,7.8,16,17,48,22,23,85,46,48,0,0,0,0,0,0,35,1,good_ece
+EC2401026,Zara Khan,Electronics & Telecom,B.Tech ECE,2022,3,5,R19,0,70,5.2,11,10,31,16,15,55,52,80,2,4,2,1,8,0,50,1,fe_gate_risk_ece
+EC2401027,Akash Gupta,Electronics & Telecom,B.Tech ECE,2022,3,5,R19,0,86,7.0,14,15,42,20,21,80,72,80,0,0,0,0,0,0,65,1,compliant_ece
+EC2401028,Bindiya Tiwari,Electronics & Telecom,B.Tech ECE,2022,3,5,R19,0,52,3.8,7,6,24,11,10,35,45,80,4,7,4,3,18,2,30,1,grace_marks_ece
+EC2401029,Chirag Shah,Electronics & Telecom,B.Tech ECE,2021,4,7,R19,0,80,6.5,14,13,40,19,18,72,100,120,1,1,0,0,3,0,78,1,se_gate_ece
+EC2401030,Deepa Mohan,Electronics & Telecom,B.Tech ECE,2021,4,7,R19,0,42,3.0,4,3,18,7,6,20,65,120,6,12,8,5,30,0,20,0,definitive_detention_ece
+DSE001,Ravi Kumar,Computer Science,B.Tech CS,2023,2,3,R24,1,85,7.0,15,14,42,20,19,78,30,36,0,0,0,0,0,0,25,1,dse_healthy
+DSE002,Priya Sharma,Computer Science,B.Tech CS,2023,2,3,R24,1,60,4.5,9,8,28,14,13,45,20,36,3,5,3,1,8,0,15,1,dse_at_risk

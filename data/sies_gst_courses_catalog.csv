@@ -1,0 +1,42 @@
+course_code,course_name,semester,credits,ise_max,mse_max,ese_max,tw_max,pr_or_max,faculty_email
+FE101,Engineering Mathematics - I,1,4,20,20,60,25,0,faculty1@college.edu
+FE102,Engineering Physics - I,1,3,20,20,60,25,25,faculty2@college.edu
+FE103,Engineering Chemistry - I,1,3,20,20,60,25,0,faculty3@college.edu
+FE104,Engineering Mechanics,1,4,20,20,60,25,25,faculty4@college.edu
+FE105,Basic Electrical & Electronics (BEE),1,4,20,20,60,25,25,faculty5@college.edu
+FE106,Basic Workshop Practice - I,1,1,20,20,60,50,0,kartika@gmail.com
+FE201,Engineering Mathematics - II,2,4,20,20,60,25,0,faculty1@college.edu
+FE202,Engineering Physics - II,2,3,20,20,60,25,25,faculty2@college.edu
+FE203,Engineering Chemistry - II,2,3,20,20,60,25,0,faculty3@college.edu
+FE204,Engineering Graphics & Design,2,3,20,20,60,50,25,faculty4@college.edu
+FE205,C Programming & Problem Solving,2,3,20,20,60,25,25,faculty5@college.edu
+FE206,Professional Communication - I,2,2,20,20,60,25,0,kartika@gmail.com
+CS301,Engineering Mathematics - III,3,4,20,20,60,25,0,faculty1@college.edu
+CS302,Data Structures & Algorithms,3,4,20,20,60,25,25,faculty2@college.edu
+CS303,Digital Logic & Computer Architecture,3,3,20,20,60,25,0,faculty3@college.edu
+CS304,Object Oriented Programming with Java,3,3,20,20,60,25,25,faculty4@college.edu
+CS305,Principles of Communication,3,3,20,20,60,25,0,faculty5@college.edu
+CS401,Engineering Mathematics - IV,4,4,20,20,60,25,0,kartika@gmail.com
+CS402,Analysis of Algorithms,4,4,20,20,60,25,25,faculty1@college.edu
+CS403,Database Management Systems,4,4,20,20,60,25,25,faculty2@college.edu
+CS404,Operating Systems,4,3,20,20,60,25,25,faculty3@college.edu
+CS405,Microprocessor & Embedded Systems,4,3,20,20,60,25,0,faculty4@college.edu
+CS501,Theoretical Computer Science & Automata,5,4,20,20,60,25,0,faculty5@college.edu
+CS502,Software Engineering & Agile,5,3,20,20,60,25,0,kartika@gmail.com
+CS503,Computer Networks & Security,5,4,20,20,60,25,25,faculty1@college.edu
+CS504,Data Warehousing & Mining,5,3,20,20,60,25,25,faculty2@college.edu
+CS505,Professional Ethics & Indian Constitution,5,2,20,20,60,25,0,faculty3@college.edu
+CS601,Machine Learning & Pattern Recognition,6,4,20,20,60,25,25,faculty4@college.edu
+CS602,Cryptography & System Security,6,4,20,20,60,25,25,faculty5@college.edu
+CS603,Mobile Application Development,6,3,20,20,60,25,0,kartika@gmail.com
+CS604,Cloud Computing & Virtualization,6,3,20,20,60,25,25,faculty1@college.edu
+CS605,Mini Project 2A,6,2,20,20,60,25,25,faculty2@college.edu
+CS701,Artificial Intelligence & Soft Computing,7,4,20,20,60,25,25,faculty3@college.edu
+CS702,Big Data Analytics & Engineering,7,3,20,20,60,25,25,faculty4@college.edu
+CS703,Natural Language Processing (Elective I),7,3,20,20,60,25,0,faculty5@college.edu
+CS704,Cyber Law & Information Security (Elective II),7,3,20,20,60,25,0,kartika@gmail.com
+CS705,Major Project - Stage I,7,3,20,20,60,50,25,faculty1@college.edu
+CS801,High Performance Computing,8,4,20,20,60,25,0,faculty2@college.edu
+CS802,Deep Learning & Computer Vision,8,3,20,20,60,25,25,faculty3@college.edu
+CS803,Blockchain & Distributed Ledgers (Elective III),8,3,20,20,60,25,0,faculty4@college.edu
+CS804,Major Project - Stage II & Industry Capstone,8,6,20,20,60,100,50,faculty5@college.edu

@@ -1,0 +1,6 @@
+roll_no,branch,admission_year,current_year,semester,regulation,attendance_percentage,gpa,ise_marks,mse_marks,ese_marks,assignment_completion_percentage,earned_credits,expected_credits,failed_subjects,failed_heads,ese_failed_heads,previous_backlogs,tw_marks,pr_or_marks
+CS2401001,Computer Science,2022,3,5,R19,95,8.5,17,18,52,90,78,80,0,0,0,0,23,24
+CS2401002,Computer Science,2022,3,5,R19,65,5.2,11,10,32,60,65,80,2,3,2,0,16,15
+CS2401003,Computer Science,2022,3,5,R19,80,7.0,15,14,43,85,76,80,0,0,0,0,20,21
+CS2401004,Computer Science,2022,3,5,R19,50,4.1,8,7,27,45,40,80,3,6,4,2,12,11
+CS2401005,Computer Science,2022,3,5,R19,88,7.9,16,16,47,80,74,80,0,0,0,0,22,23

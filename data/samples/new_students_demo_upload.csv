@@ -1,0 +1,13 @@
+roll_no,branch,admission_year,current_year,semester,regulation,attendance_percentage,gpa,ise_marks,mse_marks,ese_marks,assignment_completion_percentage,earned_credits,expected_credits,failed_subjects,failed_heads,ese_failed_heads,previous_backlogs,tw_marks,pr_or_marks,course_code,course_name,credits
+CS2401001,Computer Science,2022,3,5,R19,72,5.8,12,11,34,62,65,80,2,3,2,1,17,16,CS501,Design and Analysis of Algorithms,4
+CS2401002,Computer Science,2022,3,5,R19,58,4.5,9,8,27,48,52,80,3,5,3,2,14,13,CS501,Design and Analysis of Algorithms,4
+CS2401003,Computer Science,2022,3,5,R19,82,7.2,16,15,46,80,72,80,0,0,0,0,21,20,CS501,Design and Analysis of Algorithms,4
+CS2401004,Computer Science,2022,3,5,R19,90,8.0,17,16,50,88,78,80,0,0,0,0,22,23,CS501,Design and Analysis of Algorithms,4
+CS2401005,Computer Science,2022,3,5,R19,40,3.2,6,5,20,30,38,80,4,7,5,3,10,9,CS501,Design and Analysis of Algorithms,4
+CS2401007,Computer Science,2021,4,7,R19,50,3.8,7,6,22,35,72,120,5,9,6,4,11,10,CS701,Machine Learning,4
+CS2401008,Computer Science,2021,4,7,R19,78,6.5,14,13,40,74,105,120,1,1,0,0,19,18,CS701,Machine Learning,4
+CS2401009,Computer Science,2020,5,8,R19,85,7.0,15,14,44,80,145,150,0,0,0,0,21,20,CS801,Project Phase II,6
+CS2401010,Computer Science,2020,5,8,R19,42,3.0,5,4,18,25,88,150,6,11,7,5,8,7,CS801,Project Phase II,6
+ME2401014,Mechanical Engineering,2022,2,4,R19,52,4.0,8,7,25,38,26,48,4,7,4,2,12,11,ME401,Thermodynamics II,4
+EC2401026,Electronics & Telecom,2022,3,5,R19,65,5.0,10,9,30,55,48,80,3,5,3,1,15,14,EC501,VLSI Design,4
+EC2401030,Electronics & Telecom,2021,4,7,R19,38,2.8,4,3,16,18,58,120,7,13,9,6,7,6,EC701,Embedded Systems,4

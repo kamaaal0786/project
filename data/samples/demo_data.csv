@@ -1,0 +1,6 @@
+roll_no,branch,admission_year,current_year,semester,regulation,attendance_percentage,gpa,ise_marks,mse_marks,ese_marks,assignment_completion_percentage,earned_credits,expected_credits,course_code,course_name,credits,failed_subjects,failed_heads,ese_failed_heads,previous_backlogs
+CS2401001,B.Tech CS,2022,2,3,R19,95,9.2,20,20,55,100,60,60,CS301,Data Structures,4,0,0,0,0
+CS2401002,B.Tech CS,2022,2,3,R19,78.5,7.8,16,16,48,85,54,60,CS301,Data Structures,4,0,0,0,0
+CS2401003,B.Tech CS,2022,2,3,R19,63.6,7.5,15,16,45,80,54,60,CS301,Data Structures,4,0,0,0,0
+CS2401004,B.Tech CS,2022,2,3,R19,85,8.5,18,18,50,90,56,60,CS301,Data Structures,4,0,0,0,0
+CS2401005,B.Tech CS,2022,2,3,R19,60.3,5.98,12,12,32,70,54,60,CS301,Data Structures,4,0,0,0,0
